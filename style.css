@@ -314,10 +314,10 @@ p.support-text-pricing {
 ul {
     display: flex;
     flex-direction: column;
-    /* list-style-type: none; */
+    list-style-type: none;
     padding: 0 0;
     margin-left: 50px;
-    list-style: none;
+    /* list-style: none; */
 }
 
 #pricing li.list-category {
