@@ -389,6 +389,14 @@ p.support-text-pricing {
         margin-left: 0px;
     }
 
+   #pricing ul {
+        margin-left: 0px;
+    }
+
+    li.list-category {
+        margin-left: 0px;
+    }
+
     .hidden {
         display: none;
     }
