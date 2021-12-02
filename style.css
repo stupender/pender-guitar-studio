@@ -123,7 +123,7 @@ h3 {
     color: hsl(240deg 8% 95%);
     font-family: 'Futura', sans-serif;
     text-align: left; 
-    font-size: 22px;
+    font-size: 24px;
     /* font-weight: 700; */
 }
 
@@ -175,7 +175,7 @@ li.list-category {
     color: rgb(241,241,243);
     font-family: 'futura', serif;    
     text-align: left; 
-    font-size: 18px;
+    font-size: 20px;
     font-weight: 100;
     line-height: 30px;
     width: auto;
