@@ -311,6 +311,10 @@ h4 {
     border-bottom: 1px solid hsl(101deg 25% 74%);
 }
 
+p.support-text-pricing {
+    margin: 50px 0 20px 0;
+}
+
 
 
 /* MEDIA QUERIES */
