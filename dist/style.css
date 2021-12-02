@@ -300,6 +300,18 @@ h4 {
     background-color: hsl(240deg 8% 95% / 95%);
 }
 
+.p-link-cta {
+    color: hsl(240deg 8% 95%);
+    border-bottom: 1px solid hsl(240deg 8% 95% / 85%);
+    text-decoration: none;
+}
+
+.p-link-cta:hover {
+    color: hsl(101deg 25% 74%);
+    border-bottom: 1px solid hsl(101deg 25% 74%);
+}
+
+
 
 /* MEDIA QUERIES */
 
