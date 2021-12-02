@@ -318,10 +318,12 @@ ul {
     padding: 0 0;
     margin-left: 50px;
     /* list-style: none; */
+    color: hsl(101deg 25% 74%);
 }
 
 #pricing li.list-category {
     color: hsl(101deg 25% 74%);
+    list-style-type: none;
     border-bottom: 1px solid hsl(101deg 25% 74% / 31%);
 }
 
