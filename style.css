@@ -87,7 +87,7 @@ h2.coupon-header {
 .button-link {
     border: none;
     /* color: rgb(41, 28, 28); */
-    color: rgb(242, 189, 173);
+    color: rgb(255, 255, 255);
     cursor: pointer;
     padding: 25px 25px;
     background-color: hsl(240deg 8% 95% / 0%);
@@ -97,12 +97,12 @@ h2.coupon-header {
     font-size: 18px;
     font-weight: 200; 
     width: auto;
-    text-decoration: none;
+    /* text-decoration: none; */
 }
 
-button:hover {
-    /* color: rgb(224, 89, 47); */
-    /* background-color: hsl(240deg 8% 95% / 95%); */
+a.button-link:hover {
+    color: hsl(11deg 72% 42%);
+    /* border-bottom: 1px solid hsl(11deg 72% 42%); */
 }
 
 
