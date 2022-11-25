@@ -1,1 +1,21 @@
-(()=>{document.querySelector("#iphone");let e=document.querySelector("#iphone-menu"),t=document.querySelector("main"),c=(document.querySelector(".about"),document.querySelector(".material"),document.querySelector(".pricing"),document.querySelector("body"));function o(){e.classList.toggle("active"),t.classList.toggle("hidden"),c.classList.toggle("menu-color")}document.querySelector("#iphone").addEventListener("click",o),document.querySelector(".about").addEventListener("click",o),document.querySelector(".material").addEventListener("click",o),document.querySelector(".pricing").addEventListener("click",o)})();
+// NAV TOGGLE
+// let iphoneMenuLink = document.querySelector('#iphone');
+// let menuItems = document.querySelector('#iphone-menu');
+// let main = document.querySelector('main');
+// let about = document.querySelector('.about');
+// let material = document.querySelector('.material');
+// let pricing = document.querySelector('.pricing');
+// let body = document.querySelector('body');
+
+
+// document.querySelector('#iphone').addEventListener("click", navToggle);
+// document.querySelector('.about').addEventListener("click", navToggle);
+// document.querySelector('.material').addEventListener("click", navToggle);
+// document.querySelector('.pricing').addEventListener("click", navToggle);
+
+
+// function navToggle() {
+//     menuItems.classList.toggle('active');
+//     main.classList.toggle('hidden');
+//     body.classList.toggle('menu-color');                          
+// }
