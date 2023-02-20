@@ -32,8 +32,8 @@ a.nav-link {
 }
 
 a.nav-link:hover {
-    color: hsl(11deg 72% 42%);
-    border-bottom: 1px solid hsl(11deg 72% 42%);
+    color: rgb(245 199 197);
+    border-bottom: 1px solid rgb(245 199 197);
 }
 
 
@@ -120,11 +120,35 @@ a.button-link:hover {
 }
 
 div#about {
-    background-color: rgb(100 85 97);
+    background-color: rgb(90, 98, 106);
     background-image: url("images/IMG_1122.jpeg");
+
+    /* background-image: url("images/IMG_1031.jpeg"); */
     background-size: cover;
     background-blend-mode: soft-light;
 }
+
+#about .page-title {
+    color: rgb(245 199 197);
+    border-bottom: 1px solid rgb(245 199 197);
+}
+
+#about li.list-category {
+    color: rgb(245 199 197);
+    border-bottom: 1px solid rgb(245 199 197);
+}
+
+.p-link-2 {
+    color: rgb(245 199 197);
+    border-bottom: 1px solid rgb(245 199 197);
+    text-decoration: none;
+}
+
+.p-link-2:hover {
+    color: rgb(245 199 197);
+    border-bottom: 1px solid rgb(245 199 197);
+}
+
 
 h3 {
     color: hsl(240deg 8% 95%);
@@ -150,10 +174,10 @@ h3 {
     padding-bottom: 5px;
 }
 
-#about .page-title {
+/* #about .page-title {
     color: rgb(245 199 197);
     border-bottom: 1px solid rgb(245 199 197 / 85%);
-}
+} */
 
 .quote {
     border-left: 5px solid rgb(245 199 197 / 45%);
@@ -192,17 +216,16 @@ li.list-category {
     justify-content: space-between;
 }
 
-#about li.list-category {
+/* #about li.list-category {
     color: rgb(245 199 197);
     border-bottom: 1px solid rgb(245 199 197 / 31%);
-}
+} */
 
 li {
     color: rgb(241,241,243);
     font-family: 'georgia', serif; 
     font-size: 16px;
     font-weight: 100;
-
 }
 
 
@@ -244,7 +267,7 @@ li {
 /* PRICING PAGE */
 
 #pricing {
-    background-color: #576e57;
+    background-color: #455145;
     background-image: url("images/IMG_0946.jpeg");
     background-size: cover;
     background-blend-mode: soft-light;
