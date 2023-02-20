@@ -32,8 +32,8 @@ a.nav-link {
 }
 
 a.nav-link:hover {
-    color: rgb(177, 207, 213);
-    border-bottom: 1px solid rgb(177, 207, 213);
+    color: rgb(205, 141, 131);
+    border-bottom: 1px solid rgb(205, 141, 131);
 }
 
 
@@ -103,7 +103,7 @@ h2.coupon-header {
 }
 
 a.button-link:hover {
-    color: rgb(177, 207, 213);
+    color: rgb(205, 141, 131);
     /* border-bottom: 1px solid rgb(245 199 197); */
 }
 
@@ -165,8 +165,8 @@ h3 {
 }
 
 .p-link:hover {
-    color: rgb(177, 207, 213);
-    border-bottom: 1px solid rgb(177, 207, 213);
+    color: rgb(205, 141, 131);
+    border-bottom: 1px solid rgb(205, 141, 131);
 }
 
 .page-title {
@@ -175,7 +175,7 @@ h3 {
 }
 
 /* #about .page-title {
-    color: rgb(177, 207, 213);
+    color: rgb(205, 141, 131);
     border-bottom: 1px solid rgb(245 199 197 / 85%);
 } */
 
@@ -217,7 +217,7 @@ li.list-category {
 }
 
 /* #about li.list-category {
-    color: rgb(177, 207, 213);
+    color: rgb(205, 141, 131);
     border-bottom: 1px solid rgb(245 199 197 / 31%);
 } */
 
