@@ -6,8 +6,6 @@ body {
     flex-direction: column;
 }
 
-
-
 /* NAV */
 
 nav#desktop {
@@ -90,8 +88,7 @@ h2.coupon-header {
     color: rgb(255, 255, 255);
     cursor: pointer;
     padding: 25px 25px;
-    background-color: hsl(240deg 8% 95% / 0%);
-    width: auto;
+    /* background-color: hsla(240, 8%, 95%, 0.533); */
     font-family: 'futura', sans-serif;
     font-size: 16px;
     font-weight: 100;
