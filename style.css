@@ -32,8 +32,8 @@ a.nav-link {
 }
 
 a.nav-link:hover {
-    color: rgb(224, 145, 75);
-    border-bottom: 1px solid rgb(224, 145, 75);
+    color: rgb(177, 207, 213);
+    border-bottom: 1px solid rgb(177, 207, 213);
 }
 
 
@@ -42,7 +42,7 @@ a.nav-link:hover {
 /* TITLE PAGE */
 
 .title-div {
-/*     background-color: rgb(201, 174, 136); */
+    /* background-color: rgb(85, 85, 85); */
     /* background-image: url("images/photay3.jpg"); */
     background-image: url("images/lakemichigan.jpg");
     background-size: cover;
@@ -103,7 +103,7 @@ h2.coupon-header {
 }
 
 a.button-link:hover {
-    color: rgb(228, 169, 139);
+    color: rgb(177, 207, 213);
     /* border-bottom: 1px solid rgb(245 199 197); */
 }
 
@@ -120,7 +120,7 @@ a.button-link:hover {
 }
 
 div#about {
-    background-color: rgb(69, 75, 80);
+    background-color: rgb(66, 69, 72);
     background-image: url("images/IMG_1122.jpeg");
 
     /* background-image: url("images/IMG_1031.jpeg"); */
@@ -129,29 +129,29 @@ div#about {
 }
 
 #about .page-title {
-    color: rgb(228, 169, 139);
-    border-bottom: 1px solid rgb(111, 123, 125);
+    color: rgb(205, 141, 131);
+    border-bottom: 1px solid rgb(205, 141, 131, 50%);
 }
 
 #about li.list-category {
-    color: rgb(228, 169, 139);
-    border-bottom: 1px solid rgb(111, 123, 125);
+    color: rgb(205, 141, 131);
+    border-bottom: 1px solid rgb(205, 141, 131, 25%);
 }
 
 .p-link-2 {
-    color: rgb(228, 169, 139);
-    border-bottom: 1px solid rgb(228, 169, 139);
+    color: rgb(205, 141, 131);
+    border-bottom: 1px solid rgb(205, 141, 131);
     text-decoration: none;
 }
 
 .p-link-2:hover {
-    color: rgb(228, 169, 139);
-    border-bottom: 1px solid rgb(228, 169, 139);
+    color: rgb(205, 141, 131);
+    border-bottom: 1px solid rgb(205, 141, 131);
 }
 
 
 h3 {
-    color: hsl(240deg 8% 95%);
+    color: rgb(205, 141, 131);
     font-family: 'Futura', sans-serif;
     text-align: left; 
     font-size: 24px;
@@ -159,23 +159,23 @@ h3 {
 }
 
 .p-link {
-    color: hsl(240deg 8% 95%);
-    border-bottom: 1px solid hsl(240deg 8% 95% / 85%);
+    color: white;
+    border-bottom: 1px solid white;
     text-decoration: none;
 }
 
 .p-link:hover {
-    color: rgb(228, 169, 139);
-    border-bottom: 1px solid rgb(228, 169, 139);
+    color: rgb(177, 207, 213);
+    border-bottom: 1px solid rgb(177, 207, 213);
 }
 
 .page-title {
-    border-bottom: 1px solid hsl(240deg 8% 95% / 85%);
+    border-bottom: 1px solid rgb(205, 141, 131);
     padding-bottom: 5px;
 }
 
 /* #about .page-title {
-    color: rgb(228, 169, 139);
+    color: rgb(177, 207, 213);
     border-bottom: 1px solid rgb(245 199 197 / 85%);
 } */
 
@@ -217,7 +217,7 @@ li.list-category {
 }
 
 /* #about li.list-category {
-    color: rgb(228, 169, 139);
+    color: rgb(177, 207, 213);
     border-bottom: 1px solid rgb(245 199 197 / 31%);
 } */
 
