@@ -30,8 +30,8 @@ a.nav-link {
 }
 
 a.nav-link:hover {
-    color: rgb(120, 145, 149);
-    border-bottom: 1px solid rgb(120, 145, 149);
+    color: rgb(205, 141, 131);
+    border-bottom: 1px solid rgb(205, 141, 131);
 }
 
 
@@ -100,7 +100,7 @@ h2.coupon-header {
 }
 
 a.button-link:hover {
-    color: rgb(120, 145, 149);
+    color: rgb(205, 141, 131);
     /* border-bottom: 1px solid rgb(245 199 197); */
 }
 
@@ -126,29 +126,29 @@ div#about {
 }
 
 #about .page-title {
-    color: rgb(120, 145, 149);
-    border-bottom: 1px solid rgb(120, 145, 149, 50%);
+    color: rgb(205, 141, 131);
+    border-bottom: 1px solid rgb(205, 141, 131, 50%);
 }
 
 #about li.list-category {
-    color: rgb(120, 145, 149);
-    border-bottom: 1px solid rgb(120, 145, 149, 25%);
+    color: rgb(205, 141, 131);
+    border-bottom: 1px solid rgb(205, 141, 131, 25%);
 }
 
 .p-link-2 {
-    color: rgb(120, 145, 149);
-    border-bottom: 1px solid rgb(120, 145, 149);
+    color: rgb(205, 141, 131);
+    border-bottom: 1px solid rgb(205, 141, 131);
     text-decoration: none;
 }
 
 .p-link-2:hover {
-    color: rgb(120, 145, 149);
-    border-bottom: 1px solid rgb(120, 145, 149);
+    color: rgb(205, 141, 131);
+    border-bottom: 1px solid rgb(205, 141, 131);
 }
 
 
 h3 {
-    color: rgb(120, 145, 149);
+    color: rgb(205, 141, 131);
     font-family: 'Futura', sans-serif;
     text-align: left; 
     font-size: 24px;
@@ -162,12 +162,12 @@ h3 {
 }
 
 .p-link:hover {
-    color: rgb(120, 145, 149);
-    border-bottom: 1px solid rgb(120, 145, 149);
+    color: rgb(205, 141, 131);
+    border-bottom: 1px solid rgb(205, 141, 131);
 }
 
 .page-title {
-    border-bottom: 1px solid rgb(120, 145, 149);
+    border-bottom: 1px solid rgb(205, 141, 131);
     padding-bottom: 5px;
 }
 
