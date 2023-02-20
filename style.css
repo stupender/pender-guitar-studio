@@ -363,7 +363,7 @@ p.support-text-pricing {
     nav#desktop {
         display: none;
     }
-
+    
     body.menu-color {
         background-color: hsl(240deg 8% 95%);
     }
@@ -400,6 +400,7 @@ p.support-text-pricing {
     }
 
     a.nav-link:hover {
+        color: black;
         border-bottom: 0px;
     }
 
