@@ -6,6 +6,8 @@ body {
     flex-direction: column;
 }
 
+
+
 /* NAV */
 
 nav#desktop {
@@ -30,8 +32,8 @@ a.nav-link {
 }
 
 a.nav-link:hover {
-    color: rgb(205, 141, 131);
-    border-bottom: 1px solid rgb(205, 141, 131);
+    color: rgb(245 199 197);
+    border-bottom: 1px solid rgb(245 199 197);
 }
 
 
@@ -40,9 +42,9 @@ a.nav-link:hover {
 /* TITLE PAGE */
 
 .title-div {
-    background-color: rgba(85, 85, 85, 0.359);
+/*     background-color: rgb(201, 174, 136); */
     /* background-image: url("images/photay3.jpg"); */
-    background-image: url("images/lakemichigan-hires.jpg");
+    background-image: url("images/lakemichigan.jpg");
     background-size: cover;
     background-position: center;
 
@@ -88,7 +90,8 @@ h2.coupon-header {
     color: rgb(255, 255, 255);
     cursor: pointer;
     padding: 25px 25px;
-    /* background-color: hsla(240, 8%, 95%, 0.533); */
+    background-color: hsl(240deg 8% 95% / 0%);
+    width: auto;
     font-family: 'futura', sans-serif;
     font-size: 16px;
     font-weight: 100;
@@ -100,8 +103,8 @@ h2.coupon-header {
 }
 
 a.button-link:hover {
-    color: rgb(205, 141, 131);
-    /* border-bottom: 1px solid rgb(245 199 197); */
+    color: rgb(245 199 197);
+    /* border-bottom: 1px solid hsl(11deg 72% 42%); */
 }
 
 
@@ -117,38 +120,45 @@ a.button-link:hover {
 }
 
 div#about {
-    /* background-color: rgb(50, 43, 46); */
-    background-image: url("images/IMG_1122.jpeg");
-    background-color: rgba(31, 31, 31);
+    background-color: rgb(241, 241, 243);
+    /* background-image: url("images/IMG_1122.jpeg"); */
     /* background-image: url("images/IMG_1031.jpeg"); */
     background-size: cover;
     background-blend-mode: soft-light;
 }
 
+p#about {
+    color: rgb(36, 36, 36);
+}
+
+a#about {
+    color: rgb(36, 36, 36);
+}
+
 #about .page-title {
-    color: rgb(205, 141, 131);
-    border-bottom: 1px solid rgb(205, 141, 131, 50%);
+    color: rgb(245 199 197);
+    border-bottom: 1px solid rgb(245 199 197);
 }
 
 #about li.list-category {
-    color: rgb(205, 141, 131);
-    border-bottom: 1px solid rgb(205, 141, 131, 25%);
+    color: rgb(245 199 197);
+    border-bottom: 1px solid rgb(245 199 197);
 }
 
 .p-link-2 {
-    color: rgb(205, 141, 131);
-    border-bottom: 1px solid rgb(205, 141, 131);
+    color: rgb(245 199 197);
+    border-bottom: 1px solid rgb(245 199 197);
     text-decoration: none;
 }
 
 .p-link-2:hover {
-    color: rgb(205, 141, 131);
-    border-bottom: 1px solid rgb(205, 141, 131);
+    color: rgb(245 199 197);
+    border-bottom: 1px solid rgb(245 199 197);
 }
 
 
 h3 {
-    color: rgb(205, 141, 131);
+    color: hsl(240deg 8% 95%);
     font-family: 'Futura', sans-serif;
     text-align: left; 
     font-size: 24px;
@@ -156,23 +166,23 @@ h3 {
 }
 
 .p-link {
-    color: white;
-    border-bottom: 1px solid white;
+    color: hsl(240deg 8% 95%);
+    border-bottom: 1px solid hsl(240deg 8% 95% / 85%);
     text-decoration: none;
 }
 
 .p-link:hover {
-    color: rgb(205, 141, 131);
-    border-bottom: 1px solid rgb(205, 141, 131);
+    color: rgb(245 199 197);
+    border-bottom: 1px solid rgb(245 199 197);
 }
 
 .page-title {
-    border-bottom: 1px solid rgb(205, 141, 131);
+    border-bottom: 1px solid hsl(240deg 8% 95% / 85%);
     padding-bottom: 5px;
 }
 
 /* #about .page-title {
-    color: rgb(205, 141, 131);
+    color: rgb(245 199 197);
     border-bottom: 1px solid rgb(245 199 197 / 85%);
 } */
 
@@ -183,11 +193,10 @@ h3 {
 
 p {
     color: hsl(240deg 8% 95%);
-    /* font-family: 'georgia', serif; */
-    font-family: 'Playfair Display', serif;
+    font-family: 'georgia', serif;    
     text-align: left; 
     font-size: 16px;
-    font-weight: 400;
+    font-weight: 100;
     /* padding: 0 50px 0 0; */
 
 }
@@ -210,13 +219,12 @@ li.list-category {
     width: auto;
     border-bottom: 1px solid hsl(240deg 8% 95% / 31%);
     margin: 30px 0 0 0;
-    margin-left: 0px;
     padding: 10px 20px 0px 0px;
     justify-content: space-between;
 }
 
 /* #about li.list-category {
-    color: rgb(205, 141, 131);
+    color: rgb(245 199 197);
     border-bottom: 1px solid rgb(245 199 197 / 31%);
 } */
 
@@ -233,7 +241,7 @@ li {
 /* WHAT YOU'LL LEARN PAGE */
 
 #material {
-    background-color: rgb(62, 52, 56);
+    background-color: #4e7d83;
     /* color:rgb(36, 36, 36) */
     background-image: url("images/IMG_1031.jpeg");
     background-size: cover;
@@ -266,8 +274,8 @@ li {
 /* PRICING PAGE */
 
 #pricing {
-    background-color: #3b4c3b;
-    background-image: url("images/IMG_1031.jpeg");
+    background-color: #455145;
+    background-image: url("images/IMG_0946.jpeg");
     background-size: cover;
     background-blend-mode: soft-light;
 }
@@ -365,7 +373,7 @@ p.support-text-pricing {
     nav#desktop {
         display: none;
     }
-    
+
     body.menu-color {
         background-color: hsl(240deg 8% 95%);
     }
@@ -402,7 +410,6 @@ p.support-text-pricing {
     }
 
     a.nav-link:hover {
-        color: black;
         border-bottom: 0px;
     }
 
