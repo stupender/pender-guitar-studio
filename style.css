@@ -120,12 +120,15 @@ a.button-link:hover {
 }
 
 div#about {
-    background-color: rgb(90, 98, 106);
+    background-color: rgba(205, 204, 202, 1);
     background-image: url("images/IMG_1122.jpeg");
-
     /* background-image: url("images/IMG_1031.jpeg"); */
     background-size: cover;
     background-blend-mode: soft-light;
+}
+
+p#about {
+    color: hsl(240, 0%, 29.5%);
 }
 
 #about .page-title {
