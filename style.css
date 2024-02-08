@@ -134,7 +134,7 @@ div#about {
 
 #about li.list-category {
     color: rgb(255, 147, 129);
-    border-bottom: 1px solid rgb(255, 147, 129);
+    border-bottom: 1px solid rgb(255, 147, 129 / 31%);
 }
 
 .p-link-2 {
