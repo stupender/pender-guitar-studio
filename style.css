@@ -32,8 +32,8 @@ a.nav-link {
 }
 
 a.nav-link:hover {
-    color: rgb(245 199 197);
-    border-bottom: 1px solid rgb(245 199 197);
+    color: rgb(255, 147, 129);
+    border-bottom: 1px solid rgb(255, 147, 129);
 }
 
 
@@ -103,7 +103,7 @@ h2.coupon-header {
 }
 
 a.button-link:hover {
-    color: rgb(245 199 197);
+    color: rgb(255, 147, 129);
     /* border-bottom: 1px solid hsl(11deg 72% 42%); */
 }
 
@@ -128,24 +128,24 @@ div#about {
 }
 
 #about .page-title {
-    color: rgb(245 199 197);
-    border-bottom: 1px solid rgb(245 199 197);
+    color: rgb(255, 147, 129);
+    border-bottom: 1px solid rgb(255, 147, 129);
 }
 
 #about li.list-category {
-    color: rgb(245 199 197);
-    border-bottom: 1px solid rgb(245 199 197);
+    color: rgb(255, 147, 129);
+    border-bottom: 1px solid rgb(255, 147, 129);
 }
 
 .p-link-2 {
-    color: rgb(245 199 197);
-    border-bottom: 1px solid rgb(245 199 197);
+    color: rgb(255, 147, 129);
+    border-bottom: 1px solid rgb(255, 147, 129);
     text-decoration: none;
 }
 
 .p-link-2:hover {
-    color: rgb(245 199 197);
-    border-bottom: 1px solid rgb(245 199 197);
+    color: rgb(255, 147, 129);
+    border-bottom: 1px solid rgb(255, 147, 129);
 }
 
 
@@ -164,8 +164,8 @@ h3 {
 }
 
 .p-link:hover {
-    color: rgb(245 199 197);
-    border-bottom: 1px solid rgb(245 199 197);
+    color: rgb(255, 147, 129);
+    border-bottom: 1px solid rgb(255, 147, 129);
 }
 
 .page-title {
@@ -174,12 +174,12 @@ h3 {
 }
 
 /* #about .page-title {
-    color: rgb(245 199 197);
-    border-bottom: 1px solid rgb(245 199 197 / 85%);
+    color: rgb(255, 147, 129);
+    border-bottom: 1px solid rgb(255, 147, 129 / 85%);
 } */
 
 .quote {
-    border-left: 5px solid rgb(245 199 197 / 45%);
+    border-left: 5px solid rgb(255, 147, 129 / 45%);
     padding-left: 15px;
 }
 
@@ -215,10 +215,10 @@ li.list-category {
     justify-content: space-between;
 }
 
-/* #about li.list-category {
-    color: rgb(245 199 197);
-    border-bottom: 1px solid rgb(245 199 197 / 31%);
-} */
+#about li.list-category {
+    color: rgb(255, 147, 129);
+    border-bottom: 1px solid rgb(255, 147, 129 / 31%);
+}
 
 li {
     color: rgb(241,241,243);
