@@ -128,8 +128,8 @@ div#about {
 }
 
 #about .page-title {
-    color: rgb(255, 147, 129);
-    border-bottom: 1px solid rgb(255, 147, 129);
+    color: hsl(33deg 43% 81%);
+    border-bottom: 1px solid hsl(33deg 43% 81% / 31%)
 }
 
 #about li.list-category {
@@ -216,8 +216,8 @@ li.list-category {
 }
 
 #about li.list-category {
-    color: rgb(255, 147, 129);
-    border-bottom: 1px solid rgb(255, 147, 129 / 31%);
+    color: hsl(33deg 43% 81%);
+    border-bottom: 1px solid hsl(33deg 43% 81% / 31%);
 }
 
 li {
